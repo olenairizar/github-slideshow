@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a mis slides!"
 ---
-Your text
+Vamos a esforzarnos para crear algo decente
 Use the left arrow to go back!
